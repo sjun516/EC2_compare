@@ -1,5 +1,5 @@
 # 인스턴스 유형, 패밀리 등 성능 차이 테스트
-AWS 환경 : EC2
+AWS 환경 : EC2 <br>
 SSH 연결프로그램 : putty <br>
 서버 : Flask <br>
 
