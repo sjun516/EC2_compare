@@ -1,5 +1,6 @@
 # 인스턴스 유형, 패밀리 등 성능 차이 테스트
-SSH연결프로그램 : putty <br>
+AWS 환경 : EC2
+SSH 연결프로그램 : putty <br>
 서버 : Flask <br>
 
 ## T 계열의 small측정 테스트
