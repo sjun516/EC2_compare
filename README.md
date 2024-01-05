@@ -1,5 +1,6 @@
 # 인스턴스 유형, 패밀리 등 성능 차이 테스트
-<br>
+SSH연결프로그램 : putty <br>
+서버 : Flask <br>
 
 ## T 계열의 small측정 테스트
 - t2.small <br>
